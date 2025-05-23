@@ -46,23 +46,3 @@ I have a deep expertise in a variety of technologies. Here's a snapshot of what 
 * AWS Services, Google App Engine (GAE)
 * Microservices Architecture, RESTful APIs
 * ElasticSearch, Docker, DevOps Practices
-
----
-
-### 📊 My GitHub Stats
-
-[![Bolacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=bolacha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolacha&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### How to use this:
-
-1.  Go to your GitHub profile (`github.com/bolacha`).
-2.  Create a new public repository with the same name as your username (`bolacha`).
-3.  Initialize it with a `README.md` file.
-4.  Copy the code block above and paste it into your new `README.md` file.
-5.  Commit the changes, and this will now be your profile's README!
-
-This README will give anyone visiting your profile a great first impression. Let me know if you'd like any adjustments!
